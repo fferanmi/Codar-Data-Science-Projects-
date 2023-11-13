@@ -1,0 +1,3 @@
+Year(OrderDate),count(OrderID)
+2022,152
+2023,44
